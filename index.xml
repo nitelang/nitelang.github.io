@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nite Lang</title>
+    <link>https://nitelang.github.io/</link>
+    <description>Recent content on Nite Lang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nitelang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Differences From Lua</title>
+      <link>https://nitelang.github.io/docs/the-language/differences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nitelang.github.io/docs/the-language/differences/</guid>
+      <description>These docs consists of two parts:
+Hugo Compose Themes docs Hugo Clarity Theme docs. Please note that the features listed under each theme are independent of each other. That is to say, some features may only be found in one theme and not in both.
+Compose Theme Docs Clarity Theme Docs Test </description>
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>https://nitelang.github.io/tuts/example/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nitelang.github.io/tuts/example/mermaid/</guid>
+      <description>Mermaid is library that helps you generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown.
+With compose theme, you can use mermaid using a custom shortcode as follows:
+Sequence Diagrams Syntax
+1{{&amp;lt; mermaid &amp;gt;}} 2sequenceDiagram 3 participant Alice 4 participant Bob 5 Alice-&amp;gt;&amp;gt;John: Hello John, how are you? 6 loop Healthcheck 7 John-&amp;gt;&amp;gt;John: Fight against hypochondria 8 end 9 Note right of John: Rational thoughts&amp;lt;br/&amp;gt;prevail... 10 John--&amp;gt;&amp;gt;Alice: Great!</description>
+    </item>
+    
+    <item>
+      <title>Smoothing Over Lua</title>
+      <link>https://nitelang.github.io/blog/smoothed-over-lua/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nitelang.github.io/blog/smoothed-over-lua/</guid>
+      <description>Smoothing Over Lua Coming Soonish </description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://nitelang.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nitelang.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
